@@ -93,12 +93,18 @@ const nidhi: Engineer = {
 
 ## 🔭 Galaxy Stats
 
-<a href="https://github.com/nidhiGanpati">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nidhiGanpati&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B0C1E&title_color=CE93D8&icon_color=FFE082&text_color=B39DDB&ring_color=7B2FBE&border_radius=14&custom_title=Nidhi%27s+Galaxy+Stats" alt="Nidhi's GitHub Stats"/>
-</a>
-<a href="https://github.com/nidhiGanpati">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiGanpati&layout=compact&hide_border=true&bg_color=0B0C1E&title_color=CE93D8&text_color=B39DDB&langs_count=8&border_radius=14&custom_title=Languages+of+the+Galaxy" alt="Top Languages"/>
-</a>
+| 📊 Metric | 🔢 Count |
+|:---|:---:|
+| 🗂 Public Repositories | 11 |
+| ⭐ Total Contributions (2025) | 38 |
+| 🔀 Pull Requests Merged | Active |
+| 🌍 Followers | Growing |
+| 💻 Languages Used | 8+ |
+| 🚀 Projects Shipped | 8 |
+
+&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiGanpati&layout=donut&hide_border=true&bg_color=0B0C1E&title_color=CE93D8&text_color=B39DDB&langs_count=8&border_radius=14&custom_title=Languages+of+the+Galaxy" alt="Top Languages"/>
 
 </div>
 
@@ -124,13 +130,16 @@ const nidhi: Engineer = {
 
 ---
 
-<div align="center">
+## 🏆 What I Bring to the Table
 
-## 🏆 Trophies from the Galaxy Core
-
-<img src="https://github-profile-trophy.vercel.app/?username=nidhiGanpati&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-
-</div>
+| 💡 Skill | 🚀 What I've done with it |
+|:---|:---|
+| **Full-Stack Development** | Built 3 production-grade SaaS apps end-to-end — from DB schema to deployed UI |
+| **LLM Integration** | Integrated Groq LLM into StockWise for real-time AI chat with context-aware responses |
+| **Database Optimization** | Improved MySQL query performance by **60%** via indexing and normalization at RMTSGlobal |
+| **REST API Design** | Designed and shipped multi-endpoint APIs with auth, billing, and role-based access control |
+| **ML & AI** | Built cancer detection and stress classification models with **96–98% accuracy** |
+| **UI/UX Design** | Delivered a mobile-first Figma prototype with real usability testing and user research |
 
 ---
 
